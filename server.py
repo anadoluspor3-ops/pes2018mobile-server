@@ -303,4 +303,8 @@ def cmd_get_myclub_agent_list():
     return response
 
 if __name__ == "__main__":
-    app.run(debug=True, host="0.0.0.0", port=8080, ssl_context="adhoc")
+    # Platformun atadığı dinamik portu al, bulamazsa yerelde 8080 kullan
+    port = int(os.environ.get("PORT", 8080))
+    
+    # ssl_context kaldırıldı, böylece düz HTTP üzerinden çalışacak
+    app.run(debug=True, host="0.0.0.0", port=port)
