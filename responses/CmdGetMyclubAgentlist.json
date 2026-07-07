@@ -1,0 +1,29 @@
+{
+  "msgid": "CMD_GET_MYCLUB_AGENT_LIST",
+  "rqid": 0,
+  "errcode": "0",
+  "result": "NOERR",
+  "agent_list": [
+    {
+      "agent_id": 101,
+      "name": "Special Agent Premium",
+      "name_short": "SA Premium",
+      "name_short10": "SAPremium",
+      "skill_category": "ALL",
+      "skill_id": 1,
+      "grade": 5,
+      "count": 1,
+      "type": "GOLD",
+      "rate": {
+        "rate_table": [80, 15, 5]
+      },
+      "target_level": 1,
+      "multiple_count": 0,
+      "image_file_name": "agent_icon_101.png",
+      "expiration_date": 1783007960,
+      "sell_gp": 10000,
+      "is_box_agent": "NO"
+    }
+  ],
+  "agent_list_num": 1
+}

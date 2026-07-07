@@ -1,0 +1,25 @@
+{
+  "msgid": "CMD_LOGIN",
+  "rqid": 1,
+  "errcode": "0",
+  "result": "NOERR",
+  "session_id": "4_r4dbkankc3ae4abr0vprg1ae0f",
+  "svr_time": 1719830400,
+  "user_eula_info": {
+    "ip_country_code": "TUR",
+    "country_code": "TUR",
+    "eula_version_info": "1.00",
+    "privacy_notice_version_info": "1.00",
+    "is_eea_zone": "NO"
+  },
+  "login_info": {
+    "user_id": 123456789,
+    "auth_token": "auth_token_xyz_98765",
+    "is_new_user": "NO",
+    "last_login_time": 1719820000
+  },
+  "maintenance_info": {
+    "is_maintenance": "NO",
+    "maintenance_msg": ""
+  }
+}

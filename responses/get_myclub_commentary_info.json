@@ -1,0 +1,57 @@
+{
+  "msgid": "CMD_GET_MYCLUB_COMMENTARY_INFO",
+  "rqid": 123456789,
+  "result": "NOERR",
+  "team_spirit_prematch": 85,
+  "team_power_level_prematch": "STRONG",
+  "total_match_num": 120,
+  "cont_win_num": 3,
+  "cont_win_max": 7,
+  "coach_match_num": 80,
+  "is_coach_norma_clear": "YES",
+  "coach_extended": "NO",
+  "gameplayer_extended_list": [
+    {"id": 101, "serial": 1000123456789},
+    {"id": 102, "serial": 1000234567890}
+  ],
+  "highest_division": 5,
+  "division_challenge_num": 2,
+  "division_stats": [
+    {
+      "division": 5,
+      "win": 10,
+      "loose": 3,
+      "draw": 2,
+      "promotion": 1,
+      "demotion": 0
+    },
+    {
+      "division": 4,
+      "win": 8,
+      "loose": 5,
+      "draw": 1,
+      "promotion": 0,
+      "demotion": 1
+    }
+  ],
+  "my_rank": 1500,
+  "ranking_player_num": 12000,
+  "get_player_result": [
+    {
+      "type": "SCOUT_A",
+      "id": 201,
+      "gameplayer_id": {
+        "id": 301,
+        "serial": 2000100010001
+      }
+    },
+    {
+      "type": "SCOUT_B",
+      "id": 202,
+      "gameplayer_id": {
+        "id": 302,
+        "serial": 2000200020002
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "msgid": "CMD_CMD_GET_MYCLUB_COACH_CONTRACT_NORMA",
+  "rqid": 123456789,
+  "result": "NOERR",
+  "coarch_norma_list": [
+    {
+      "current_point_division": 800,
+      "current_point_sim": 400,
+      "current_point_vscom": 350,
+      "norma_point_division": 750,
+      "norma_point_sim": 380,
+      "norma_point_vscom": 320,
+      "is_contract_end": "NO"
+    },
+    {
+      "current_point_division": 600,
+      "current_point_sim": 500,
+      "current_point_vscom": 450,
+      "norma_point_division": 580,
+      "norma_point_sim": 480,
+      "norma_point_vscom": 430,
+      "is_contract_end": "NO"
+    }
+  ]
+}

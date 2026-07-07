@@ -1,0 +1,1103 @@
+{
+"counry_list": [
+    {
+	"country_code": "ALB",
+	"privacy_kind": "PRIVACY_NOTICE",
+	"has_area": "NO",
+	"country_name": "Albania"
+    },
+    {
+	"country_code": "DZA",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Algeria"
+    },
+    {
+	"country_code": "AGO",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Angola"
+    },
+    {
+	"country_code": "ATG",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Antigua and Barbuda"
+    },
+    {
+	"country_code": "ARG",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Argentina"
+    },
+    {
+	"country_code": "ARM",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Armenia"
+    },
+    {
+	"country_code": "ABW",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Aruba"
+    },
+    {
+	"country_code": "AUS",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Australia"
+    },
+    {
+	"country_code": "AUT",
+	"privacy_kind": "PRIVACY_NOTICE",
+	"has_area": "NO",
+	"country_name": "Austria"
+    },
+    {
+	"country_code": "AZE",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Azerbaijan"
+    },
+    {
+	"country_code": "BHS",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Bahamas"
+    },
+    {
+	"country_code": "BHR",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Bahrain"
+    },
+    {
+	"country_code": "BGD",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Bangladesh"
+    },
+    {
+	"country_code": "BEL",
+	"privacy_kind": "PRIVACY_NOTICE",
+	"has_area": "NO",
+	"country_name": "Belgium"
+    },
+    {
+	"country_code": "BLZ",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Belize"
+    },
+    {
+	"country_code": "BEN",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Benin"
+    },
+    {
+	"country_code": "BMU",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Bermuda"
+    },
+    {
+	"country_code": "BOL",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Bolivia"
+    },
+    {
+	"country_code": "BIH",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Bosnia and Herzegovina"
+    },
+    {
+	"country_code": "BWA",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Botswana"
+    },
+    {
+	"country_code": "BRA",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Brazil"
+    },
+    {
+	"country_code": "VGB",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "British Virgin Islands"
+    },
+    {
+	"country_code": "BGR",
+	"privacy_kind": "PRIVACY_NOTICE",
+	"has_area": "NO",
+	"country_name": "Bulgaria"
+    },
+    {
+	"country_code": "BFA",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Burkina Faso"
+    },
+    {
+	"country_code": "CPV",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Cabo Verde"
+    },
+    {
+	"country_code": "KHM",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Cambodia"
+    },
+    {
+	"country_code": "CMR",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Cameroon"
+    },
+    {
+	"country_code": "CAN",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Canada"
+    },
+    {
+	"country_code": "CYM",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Cayman Islands"
+    },
+    {
+	"country_code": "TCD",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Chad"
+    },
+    {
+	"country_code": "CHL",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Chile"
+    },
+    {
+	"country_code": "COL",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Colombia"
+    },
+    {
+	"country_code": "COM",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Comoros"
+    },
+    {
+	"country_code": "CRI",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Costa Rica"
+    },
+    {
+	"country_code": "CIV",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Côte d'Ivoire"
+    },
+    {
+	"country_code": "HRV",
+	"privacy_kind": "PRIVACY_NOTICE",
+	"has_area": "NO",
+	"country_name": "Croatia"
+    },
+    {
+	"country_code": "CYP",
+	"privacy_kind": "PRIVACY_NOTICE",
+	"has_area": "NO",
+	"country_name": "Cyprus"
+    },
+    {
+	"country_code": "CZE",
+	"privacy_kind": "PRIVACY_NOTICE",
+	"has_area": "NO",
+	"country_name": "Czech Republic"
+    },
+    {
+	"country_code": "COD",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Democratic Republic of the Congo"
+    },
+    {
+	"country_code": "DNK",
+	"privacy_kind": "PRIVACY_NOTICE",
+	"has_area": "NO",
+	"country_name": "Denmark"
+    },
+    {
+	"country_code": "DJI",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Djibouti"
+    },
+    {
+	"country_code": "DMA",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Dominica"
+    },
+    {
+	"country_code": "DOM",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Dominican Republic"
+    },
+    {
+	"country_code": "ECU",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Ecuador"
+    },
+    {
+	"country_code": "EGY",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Egypt"
+    },
+    {
+	"country_code": "SLV",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "El Salvador"
+    },
+    {
+	"country_code": "ERI",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Eritrea"
+    },
+    {
+	"country_code": "EST",
+	"privacy_kind": "PRIVACY_NOTICE",
+	"has_area": "NO",
+	"country_name": "Estonia"
+    },
+    {
+	"country_code": "FJI",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Fiji"
+    },
+    {
+	"country_code": "FIN",
+	"privacy_kind": "PRIVACY_NOTICE",
+	"has_area": "NO",
+	"country_name": "Finland"
+    },
+    {
+	"country_code": "FRA",
+	"privacy_kind": "PRIVACY_NOTICE",
+	"has_area": "NO",
+	"country_name": "France"
+    },
+    {
+	"country_code": "GAB",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Gabon"
+    },
+    {
+	"country_code": "GMB",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Gambia"
+    },
+    {
+	"country_code": "GEO",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Georgia"
+    },
+    {
+	"country_code": "DEU",
+	"privacy_kind": "PRIVACY_NOTICE",
+	"has_area": "NO",
+	"country_name": "Germany"
+    },
+    {
+	"country_code": "GHA",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Ghana"
+    },
+    {
+	"country_code": "GIB",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Gibraltar"
+    },
+    {
+	"country_code": "GRC",
+	"privacy_kind": "PRIVACY_NOTICE",
+	"has_area": "NO",
+	"country_name": "Greece"
+    },
+    {
+	"country_code": "GRD",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Grenada"
+    },
+    {
+	"country_code": "GTM",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Guatemala"
+    },
+    {
+	"country_code": "GIN",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Guinea"
+    },
+    {
+	"country_code": "GNB",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Guinea-Bissau"
+    },
+    {
+	"country_code": "HTI",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Haiti"
+    },
+    {
+	"country_code": "HND",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Honduras"
+    },
+    {
+	"country_code": "HKG",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Hong Kong"
+    },
+    {
+	"country_code": "HUN",
+	"privacy_kind": "PRIVACY_NOTICE",
+	"has_area": "NO",
+	"country_name": "Hungary"
+    },
+    {
+	"country_code": "ISL",
+	"privacy_kind": "PRIVACY_NOTICE",
+	"has_area": "NO",
+	"country_name": "Iceland"
+    },
+    {
+	"country_code": "IND",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "India"
+    },
+    {
+	"country_code": "IDN",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Indonesia"
+    },
+    {
+	"country_code": "IRQ",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Iraq"
+    },
+    {
+	"country_code": "IRL",
+	"privacy_kind": "PRIVACY_NOTICE",
+	"has_area": "NO",
+	"country_name": "Ireland"
+    },
+    {
+	"country_code": "ISR",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Israel"
+    },
+    {
+	"country_code": "ITA",
+	"privacy_kind": "PRIVACY_NOTICE",
+	"has_area": "NO",
+	"country_name": "Italy"
+    },
+    {
+	"country_code": "JAM",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Jamaica"
+    },
+    {
+	"country_code": "JPN",
+	"privacy_kind": "PRIVACY_POLICY_JAPAN",
+	"has_area": "NO",
+	"country_name": "Japan"
+    },
+    {
+	"country_code": "JOR",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Jordan"
+    },
+    {
+	"country_code": "KAZ",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Kazakhstan"
+    },
+    {
+	"country_code": "KEN",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Kenya"
+    },
+    {
+	"country_code": "KWT",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Kuwait"
+    },
+    {
+	"country_code": "KGZ",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Kyrgyz Republic"
+    },
+    {
+	"country_code": "CUW",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Curaçao"
+    },
+    {
+	"country_code": "LAO",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Laos"
+    },
+    {
+	"country_code": "LVA",
+	"privacy_kind": "PRIVACY_NOTICE",
+	"has_area": "NO",
+	"country_name": "Latvia"
+    },
+    {
+	"country_code": "LBN",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Lebanon"
+    },
+    {
+	"country_code": "LBR",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Liberia"
+    },
+    {
+	"country_code": "LBY",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Libya"
+    },
+    {
+	"country_code": "LIE",
+	"privacy_kind": "PRIVACY_NOTICE",
+	"has_area": "NO",
+	"country_name": "Liechtenstein"
+    },
+    {
+	"country_code": "LTU",
+	"privacy_kind": "PRIVACY_NOTICE",
+	"has_area": "NO",
+	"country_name": "Lithuania"
+    },
+    {
+	"country_code": "LUX",
+	"privacy_kind": "PRIVACY_NOTICE",
+	"has_area": "NO",
+	"country_name": "Luxembourg"
+    },
+    {
+	"country_code": "MAC",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Macao"
+    },
+    {
+	"country_code": "MYS",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Malaysia"
+    },
+    {
+	"country_code": "MDV",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Maldives"
+    },
+    {
+	"country_code": "MLI",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Mali"
+    },
+    {
+	"country_code": "MLT",
+	"privacy_kind": "PRIVACY_NOTICE",
+	"has_area": "NO",
+	"country_name": "Malta"
+    },
+    {
+	"country_code": "MUS",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Mauritius"
+    },
+    {
+	"country_code": "MEX",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Mexico"
+    },
+    {
+	"country_code": "FSM",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Micronesia"
+    },
+    {
+	"country_code": "MDA",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Moldova"
+    },
+    {
+	"country_code": "MCO",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Monaco"
+    },
+    {
+	"country_code": "MNG",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Mongolia"
+    },
+    {
+	"country_code": "MNE",
+	"privacy_kind": "PRIVACY_NOTICE",
+	"has_area": "NO",
+	"country_name": "Montenegro"
+    },
+    {
+	"country_code": "MAR",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Morocco"
+    },
+    {
+	"country_code": "MOZ",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Mozambique"
+    },
+    {
+	"country_code": "MMR",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Myanmar"
+    },
+    {
+	"country_code": "NAM",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Namibia"
+    },
+    {
+	"country_code": "NPL",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Nepal"
+    },
+    {
+	"country_code": "NLD",
+	"privacy_kind": "PRIVACY_NOTICE",
+	"has_area": "NO",
+	"country_name": "Netherlands"
+    },
+    {
+	"country_code": "NZL",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "New Zealand"
+    },
+    {
+	"country_code": "NIC",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Nicaragua"
+    },
+    {
+	"country_code": "NER",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Niger"
+    },
+    {
+	"country_code": "NGA",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Nigeria"
+    },
+    {
+	"country_code": "MKD",
+	"privacy_kind": "PRIVACY_NOTICE",
+	"has_area": "NO",
+	"country_name": "North Macedonia"
+    },
+    {
+	"country_code": "NOR",
+	"privacy_kind": "PRIVACY_NOTICE",
+	"has_area": "NO",
+	"country_name": "Norway"
+    },
+    {
+	"country_code": "OMN",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Oman"
+    },
+    {
+	"country_code": "PAK",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Pakistan"
+    },
+    {
+	"country_code": "PAN",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Panama"
+    },
+    {
+	"country_code": "PNG",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Papua New Guinea"
+    },
+    {
+	"country_code": "PRY",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Paraguay"
+    },
+    {
+	"country_code": "PER",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Peru"
+    },
+    {
+	"country_code": "PHL",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Philippines"
+    },
+    {
+	"country_code": "POL",
+	"privacy_kind": "PRIVACY_NOTICE",
+	"has_area": "NO",
+	"country_name": "Poland"
+    },
+    {
+	"country_code": "PRT",
+	"privacy_kind": "PRIVACY_NOTICE",
+	"has_area": "NO",
+	"country_name": "Portugal"
+    },
+    {
+	"country_code": "QAT",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Qatar"
+    },
+    {
+	"country_code": "COG",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Republic of Congo"
+    },
+    {
+	"country_code": "KOR",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Republic of Korea"
+    },
+    {
+	"country_code": "ZAF",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Republic of South Africa"
+    },
+    {
+	"country_code": "ROU",
+	"privacy_kind": "PRIVACY_NOTICE",
+	"has_area": "NO",
+	"country_name": "Romania"
+    },
+    {
+	"country_code": "RWA",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Rwanda"
+    },
+    {
+	"country_code": "KNA",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Saint Christopher and Nevis"
+    },
+    {
+	"country_code": "LCA",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Saint Lucia"
+    },
+    {
+	"country_code": "WSM",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Samoa"
+    },
+    {
+	"country_code": "SMR",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "San Marino"
+    },
+    {
+	"country_code": "SAU",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Saudi Arabia"
+    },
+    {
+	"country_code": "SEN",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Senegal"
+    },
+    {
+	"country_code": "SRB",
+	"privacy_kind": "PRIVACY_NOTICE",
+	"has_area": "NO",
+	"country_name": "Serbia"
+    },
+    {
+	"country_code": "SYC",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Seychelles"
+    },
+    {
+	"country_code": "SLE",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Sierra Leone"
+    },
+    {
+	"country_code": "SGP",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Singapore"
+    },
+    {
+	"country_code": "SVK",
+	"privacy_kind": "PRIVACY_NOTICE",
+	"has_area": "NO",
+	"country_name": "Slovakia"
+    },
+    {
+	"country_code": "SVN",
+	"privacy_kind": "PRIVACY_NOTICE",
+	"has_area": "NO",
+	"country_name": "Slovenia"
+    },
+    {
+	"country_code": "SLB",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Solomon"
+    },
+    {
+	"country_code": "SOM",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Somalia"
+    },
+    {
+	"country_code": "ESP",
+	"privacy_kind": "PRIVACY_NOTICE",
+	"has_area": "NO",
+	"country_name": "Spain"
+    },
+    {
+	"country_code": "LKA",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Sri Lanka"
+    },
+    {
+	"country_code": "SUR",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Suriname"
+    },
+    {
+	"country_code": "SWE",
+	"privacy_kind": "PRIVACY_NOTICE",
+	"has_area": "NO",
+	"country_name": "Sweden"
+    },
+    {
+	"country_code": "CHE",
+	"privacy_kind": "PRIVACY_NOTICE",
+	"has_area": "NO",
+	"country_name": "Switzerland"
+    },
+    {
+	"country_code": "TWN",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Taiwan"
+    },
+    {
+	"country_code": "TJK",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Tajikistan"
+    },
+    {
+	"country_code": "TZA",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Tanzania"
+    },
+    {
+	"country_code": "THA",
+	"privacy_kind": "PRIVACY_POLICY_THAILAND",
+	"has_area": "NO",
+	"country_name": "Thailand"
+    },
+    {
+	"country_code": "TGO",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Togo"
+    },
+    {
+	"country_code": "TON",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Tonga"
+    },
+    {
+	"country_code": "TTO",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Trinidad and Tobago"
+    },
+    {
+	"country_code": "TUN",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Tunisia"
+    },
+    {
+	"country_code": "TUR",
+	"privacy_kind": "PRIVACY_NOTICE",
+	"has_area": "NO",
+	"country_name": "Turkey"
+    },
+    {
+	"country_code": "TKM",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Turkmenistan"
+    },
+    {
+	"country_code": "TCA",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Turks and Caicos Islands"
+    },
+    {
+	"country_code": "UGA",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Uganda"
+    },
+    {
+	"country_code": "UKR",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Ukraine"
+    },
+    {
+	"country_code": "ARE",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "United Arab Emirates"
+    },
+    {
+	"country_code": "GBR",
+	"privacy_kind": "PRIVACY_NOTICE",
+	"has_area": "NO",
+	"country_name": "United Kingdom"
+    },
+    {
+	"country_code": "USA",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "YES",
+	"country_name": "United States of America"
+    },
+    {
+	"country_code": "URY",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Uruguay"
+    },
+    {
+	"country_code": "UZB",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Uzbekistan"
+    },
+    {
+	"country_code": "VUT",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Vanuatu"
+    },
+    {
+	"country_code": "VAT",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Vatican"
+    },
+    {
+	"country_code": "VEN",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Venezuela"
+    },
+    {
+	"country_code": "YEM",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Yemen"
+    },
+    {
+	"country_code": "ZMB",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Zambia"
+    },
+    {
+	"country_code": "ZWE",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Zimbabwe"
+    },
+    {
+	"country_code": "ANY",
+	"privacy_kind": "PRIVACY_POLICY",
+	"has_area": "NO",
+	"country_name": "Other countries and regions"
+    }
+],
+"age_verify_country_code_list": [
+    "ALB",
+    "ARE",
+    "AUT",
+    "AZE",
+    "BEL",
+    "BGD",
+    "BGR",
+    "BRA",
+    "CAN",
+    "CHE",
+    "COL",
+    "CYP",
+    "CZE",
+    "DEU",
+    "DNK",
+    "DZA",
+    "EGY",
+    "ESP",
+    "EST",
+    "FIN",
+    "FRA",
+    "GBR",
+    "GRC",
+    "HKG",
+    "HRV",
+    "HUN",
+    "IDN",
+    "IRL",
+    "IRQ",
+    "ISL",
+    "ITA",
+    "KEN",
+    "KOR",
+    "LIE",
+    "LTU",
+    "LUX",
+    "LVA",
+    "MAR",
+    "MEX",
+    "MKD",
+    "MLT",
+    "MNE",
+    "MYS",
+    "NGA",
+    "NLD",
+    "NOR",
+    "POL",
+    "PRT",
+    "ROU",
+    "SAU",
+    "SEN",
+    "SGP",
+    "SOM",
+    "SRB",
+    "SVK",
+    "SVN",
+    "SWE",
+    "THA",
+    "TUR",
+    "USA",
+    "UZB",
+    "ZAF"
+],
+"result": "NOERR",
+"rqid": 1661800258,
+"msgid": "CMD_GET_COUNTRY_LIST"
+}
