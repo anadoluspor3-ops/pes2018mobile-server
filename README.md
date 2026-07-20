@@ -72,3 +72,5 @@ The endpoint wrapper uses a static 112-character hex key converted into binary b
 ---
 
 💡 *Feel free to open an issue or submit a pull request if you want to contribute to expanding the supported endpoint structure!*
+
+##  Screenshots
